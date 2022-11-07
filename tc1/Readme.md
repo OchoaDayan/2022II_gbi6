@@ -1,4 +1,4 @@
-#Tarea de clase 1
+# Tarea de clase 1
 ## Dayan Ochoa Oviedo
 En esta actividad se va a hacer una evaluación de lo aprendido en unix.
 
